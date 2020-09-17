@@ -38,14 +38,14 @@ This is what he wrote as the lyrics
 My mind’s filled with you, when I think about you I can’t fall asleep.
 Your cute expression when you pout, and also the fragrance on your body.
 My happiness is you, when I think about you I always smile.
-   Chorus 1
+//   Chorus 1
 When you’re not here, it’s so hard for me to bear.
 When you’re not here, it’s so hard for me to bear, so troubled.
 When I don’t have you to think about, I am so troubled.
 When I don’t have you to think about, I am so troubled, so hard for me to bear.
 Breaking through the clouds, I tried hard to run to you.
 Just when love arrived, you were already in someone else’s arms.
-   Chorus 2
+  // Chorus 2
 I just can’t open my mouth to let her know.
 I will surely protect you and make you laugh.
 You are so important to me, I regret not letting you know.
@@ -54,8 +54,8 @@ I just can’t open my mouth to let her know.
 Those mere simple sentences, I can’t say them.
 My whole heart hangs in the air, I can only watch from afar.
 I can do all these things but that person is already not me.
-Repeat Chorus 1
-Repeat Chorus 2"
+//Repeat Chorus 1
+//Repeat Chorus 2"
 
 After singing this song as a class performance, the girl still did not care much about the unfortunate Johny.
 Feeling helpless, Johny gave up chasing her, after all, she had her sights on someone else.
@@ -70,7 +70,7 @@ I found a job that was near your dorm.(So that Johny could meet her)
 When I started to learn how to make omelette, I found that you don’t eat breakfast.
 Oh, you passed me by again.
 Could you tell me what you’re listening to on your earphones?
-   Chorus
+//   Chorus
 Lying on the field at your school watching the stars.
 The lights are still on in the classroom because you are still there.
 Remember the love letter that I wrote to you?
@@ -79,15 +79,15 @@ Someday some year you’ll realise.
 There was someone at your side in silence.(Johny stalks her)
 Perhaps I shouldn’t be in your world.
 When you’ve get my love letter, it’ll mean I’m far away.(Johny eventually decides to leave)
-   I was waiting in the square by the school for the bell to ring.
-Would you like to walk with after I wait for your class to end?(She does not)
+ //  I was waiting in the square by the school for the bell to ring.
+Would you like to walk with me after I wait for your class to end?(She does not)
 Playing the piano, singing the song you love, the crush didn’t hurt at all.
-What hurts is you didn’t even look at me.:(
+What hurts is you didn’t even look at me. :(
 Despite my touching songs, I can’t get into your heart.
 Through the bustling crowds I’m looking for you, (attempting to) unconditionally protect you.
 Oh, you passed me by again.
 When I sing ‘Love Confession’, then do you finally turn around.(But still mostly ignore Johny's persistence)
-   Chorus"
+  // Chorus"
    
 Well, Johny had one last song to express his heartache and his resignation to his fate.
 A small section of this song full of his complains goes like this
@@ -97,7 +97,7 @@ Is his(the other dude) embrace better than mine?.
 Whatever makes you happy.
 It’s okay if you don’t love me.
 Before you leave,
-I’ll give you a hug, although you don’t really want it.:(
+I’ll give you a hug, although you don’t really want it. :(
 But it’s not like I have any other choices.
 My muscular chest,(Johny's imagination)
 If you would like to come and lie on it,
